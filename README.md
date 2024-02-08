@@ -44,10 +44,7 @@ The web application's user, after initial registration, should be able to
 adding the new item(s).
 ● Retrieve all placed orders.
 ● List of the most famous stores in general and per category.
-EMPOWERING WOMEN TO SHAPE THE FUTURE OF EVERYTHING
-www.joinwelead.org
-Instagram: @joinweleadorg,
-LinkedIn, Twitter, Facebook, Spotify: WE LEAD 4
+
 
 
 Non-functional Requirements
